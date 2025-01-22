@@ -64,15 +64,4 @@ Shows the distribution of carat weights within different price quartiles, highli
 ### 🛠️ Exportable Results:
 - Save analyzed data, including predicted demand, into a CSV file for further exploration.
 
----
 
-## 📷 Screenshots
-
-### Elasticity Coefficient
-![Elasticity Coefficient Output](elasticity_output.png)
-
-### Scatter Plot
-![Scatter Plot](scatter_plot.png)
-
-### Boxplot
-![Boxplot](boxplot_carat_vs_price.png)
